@@ -25,7 +25,7 @@ export default function Sidebar({ currentTab, setTab, theme, setTheme }) {
     { id: 'quo', label: 'Quotations', icon: FileText },
     { id: 'sal', label: 'Sales & Returns', icon: Receipt },
     { id: 'pur', label: 'Purchases & Returns', icon: ShoppingCart },
-    { id: 'exp', label: 'Expenses', icon: Wallet },
+    // { id: 'exp', label: 'Expenses', icon: Wallet },
     { id: 'trk', label: 'Item Tracker', icon: Search },
     { id: 'perf', label: 'Item Performance', icon: Award },
     { id: 'par', label: 'Parties', icon: Users },
